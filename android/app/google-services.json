@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929315265997",
+    "project_id": "whatsapp-fullstack-01",
+    "storage_bucket": "whatsapp-fullstack-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929315265997:android:43cb96e9cac6506e6bb884",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_fullstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929315265997-e89uh08fl4nobdrtctrs7p0r9udpb8el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_fullstack",
+            "certificate_hash": "2a4482ff508e0a49196a37b65b83d042f2a725b9"
+          }
+        },
+        {
+          "client_id": "929315265997-m35kd823jqqb34qkai84f2959gpkh2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVjUCVO0RXnrCbVW_8mEgepujhaQ8S3mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929315265997-m35kd823jqqb34qkai84f2959gpkh2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
